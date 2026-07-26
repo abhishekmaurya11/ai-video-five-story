@@ -26,3 +26,9 @@ Open terminal in the same folder
 Run: node index.html (the backend will start on port 3000)
 
 Open browser to http://localhost:3000
+
+
+//////////////////////////////////////////
+
+
+git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg
